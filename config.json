@@ -1,0 +1,6 @@
+{
+
+    "token": "BOT_TOKEN",
+    "clientId": "CLIENT_ID",
+    "mongoUri": "mongodb+srv://YOUR_MONGO_SHIT"
+}
