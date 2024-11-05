@@ -10,3 +10,7 @@ If you find a bug or want to support me, feel free to join my [Discord Server](h
 ## Updates:
 
 I might also update the bot to show you some tutorials!
+
+## Ideas:
+
+Got more ideas? Let me see it on my [Discord server](https://discord.gg/AvCXfFfw2N)!
