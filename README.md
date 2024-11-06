@@ -9,7 +9,7 @@ If you find a bug or want to support me, feel free to join my [Discord Server](h
 
 ## Updates:
 
-I might also update the bot to show you some tutorials!
+- 05.11.2024 - Added Economy System
 
 ## Ideas:
 
